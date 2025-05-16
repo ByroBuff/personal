@@ -8,7 +8,7 @@ const projects = [
     link: "https://github.com/ByroBuff/modulo-automata",
     description:
       "An interactive cellular-automata playground with the key component being modular arithmetic",
-    image: "https://private-user-images.githubusercontent.com/73874814/442846381-31627b3f-8389-4128-bfcc-ef8100f1d306.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0MTU1MzMsIm5iZiI6MTc0NzQxNTIzMywicGF0aCI6Ii83Mzg3NDgxNC80NDI4NDYzODEtMzE2MjdiM2YtODM4OS00MTI4LWJmY2MtZWY4MTAwZjFkMzA2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE2VDE3MDcxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjNDRlNDQ1Mjc3ODg4ZTU5ODQyODI2ZDIzMDdmYTc4YjJlNGIxZTk4YTM2MDljOGIxMmE1NzdhYWJlNWVlYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4cewCZXuyrsmm4CwZA83iNRrDNPFVd_4YNgPdaNlzfQ", // replace with your own image
+    image: "/modulo.png"
   },
   {
     name: "UDOT",

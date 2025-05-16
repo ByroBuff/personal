@@ -36,22 +36,6 @@ export const metadata: Metadata = {
 	],
 	authors: [{ name: 'Tyler Zaeske' }],
 	creator: 'Tyler Zaeske',
-	openGraph: {
-		title: 'Tyler Zaeske - Module Developer',
-		description: 'I am an 18 year old student at the University of Colorado Boulder, studying Computer Science. I also work as a software developer for Osint Industries, a digital investigations company.',
-		url: 'https://github.com/ByroBuff',
-		siteName: 'Tyler Zaeske - Module Developer',
-		images: [
-			{
-				url: '/og-image.jpg',
-				width: 1200,
-				height: 630,
-				alt: 'Tyler Zaeske - Module Developer',
-			},
-		],
-		locale: 'en_US',
-		type: 'website',
-	},
 	robots: {
 		index: true,
 		follow: true,
